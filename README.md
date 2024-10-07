@@ -1,3 +1,6 @@
+# Amal Charity dApp
+## Disclaimer: both the mobile app and it's smart contract are under development until 14 oct
+
 # Only Contract Template
 
 This template provides a starting point for a dapp with all necessary infrastructure and implements a simple on-chain message board functionality.
